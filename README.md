@@ -8,3 +8,5 @@
 ## Fonts Used:
 - [Iosevka](https://github.com/be5invis/Iosevka)
 
+Note: The Website isn't yet updated for mobile viewing.
+
